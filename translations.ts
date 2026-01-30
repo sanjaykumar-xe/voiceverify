@@ -40,13 +40,6 @@ export const translations = {
     ml: "ലോഗിൻ",
     te: "లాగిన్"
   },
-  btnLogOut: {
-    en: "Log Out",
-    hi: "लॉग आउट",
-    ta: "வெளியேறு",
-    ml: "ലോഗ് ഔട്ട്",
-    te: "లాగ్ అవుట్"
-  },
   btnSignUp: {
     en: "Sign Up",
     hi: "साइन अप",

@@ -94,7 +94,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onStart, onGuestLogin,
       </header>
 
       <main className="relative z-10">
-        <section className="max-w-7xl mx-auto px-6 pt-32 pb-24 text-center">
+        <section className="max-w-7xl mx-auto px-6 pt-48 pb-40 text-center">
           <div data-aos="fade-up">
             <h1 className="text-5xl md:text-7xl lg:text-8xl font-black tracking-tight leading-[0.9] mb-8 text-slate-900 dark:text-white">
               {t('heroTitle1')} <br />

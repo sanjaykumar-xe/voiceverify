@@ -29,7 +29,7 @@ export const Header: React.FC<HeaderProps> = ({ user, isGuest, onLogout, onExitG
             <span className="text-slate-500 dark:text-slate-400 hidden lg:inline font-medium">{user.email}</span>
             <button onClick={onLogout} className="flex items-center gap-2 text-slate-500 dark:text-slate-400 hover:text-red-500 dark:hover:text-red-400 transition-all duration-200 p-2 rounded-md bg-slate-200 dark:bg-slate-800/50 hover:bg-slate-300 dark:hover:bg-slate-700/50">
               <LogOutIcon className="w-4 h-4" />
-              <span className="hidden sm:inline">{t('btnLogOut')}</span>
+              <span className="hidden sm:inline">{t('btnLogIn')}</span>
             </button>
           </div>
         ) : isGuest ? (

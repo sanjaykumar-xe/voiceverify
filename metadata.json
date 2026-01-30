@@ -1,5 +1,5 @@
 {
-  "name": "VoiceVerify",
+  "name": "Copy of  VoiceVerify 2",
   "description": "A privacy-first AI-powered web application that detects whether a submitted voice sample is AI-generated or human-generated, with support for multiple Indian languages.",
   "requestFramePermissions": [
     "microphone"
